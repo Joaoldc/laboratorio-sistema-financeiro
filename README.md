@@ -1,9 +1,6 @@
-# laboratorio-sistema-financeiro
-Aulas de criação de um sistemas financeiro em Java 
-
 # 💻 Laboratório de Programação Orientada a Objetos – Sistema Bancário
 
-Este repositório reúne meus estudos e implementações relacionados a um **projeto prático de consolidação de conceitos fundamentais de Programação Orientada a Objetos (POO)**.  
+Este repositório está relacionados a um **projeto prático de consolidação de conceitos fundamentais de Programação Orientada a Objetos (POO)**.  
 O projeto consiste em uma aplicação que **simula um sistema bancário básico**, com funcionalidades essenciais como:
 
 - Criação de contas bancárias;
